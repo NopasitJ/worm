@@ -71,5 +71,5 @@ int main()
         else
             re += (Qs[i]) * (Qs[a - i]);
     }
-    cout << re << "ways";
+    cout << re << " ways";
 }
